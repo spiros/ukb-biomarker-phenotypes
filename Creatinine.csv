@@ -1,0 +1,18 @@
+terminology,readcode,readterm
+read2,44J3.00,Serum creatinine
+read2,44J3200,Serum creatinine normal
+read2,44J3z00,Serum creatinine NOS
+read2,44J3300,Serum creatinine raised
+read2,44JD.00,Corrected serum creatinine level
+read2,44JC.00,Corrected plasma creatinine level
+read2,44J3100,Serum creatinine low
+read2,44J3000,Serum creatinine abnormal
+ctv3,XE2q5,Serum creatinine
+ctv3,XE2q5,Serum creatinine level
+ctv3,44J32,Serum creatinine normal
+ctv3,44J3z,Serum creatinine NOS
+ctv3,44J33,Serum creatinine raised
+ctv3,XaERc,Corrected serum creatinine level
+ctv3,XaERX,Corrected plasma creatinine level
+ctv3,44J31,Serum creatinine low
+ctv3,44J30,Serum creatinine abnormal

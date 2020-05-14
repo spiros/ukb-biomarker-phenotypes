@@ -1,0 +1,9 @@
+terminology,readcode,readterm
+read2,42L..00,Basophil count
+read2,42LZ.00,Basophil count NOS
+read2,42L1.00,Basophil count normal
+ctv3,42L..,Basophil count
+ctv3,42LZ.,Basophil count NOS
+ctv3,42L1.,Basophil count normal
+read2,42L3.00,Basophil count abnormal
+read2,42L2.00,Basophilia

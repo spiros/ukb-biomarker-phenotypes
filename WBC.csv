@@ -1,0 +1,20 @@
+terminology,readcode,readterm
+read2,42H..00,Total white cell count
+read2,42H..11,White blood count
+read2,42H..12,White cell count
+read2,42H7.00,Total white blood count
+read2,42H1.00,White cell count normal
+read2,42HZ.00,Total white cell count NOS
+read2,42H3.00,Leucocytosis -high white count
+read2,42H8.00,Total WBC (IMM)
+read2,42H2.00,Leucopenia - low white count
+read2,42H5.00,White cell count abnormal
+ctv3,XaIdY,Total white blood count
+ctv3,42H..,White blood cell count
+ctv3,42H..,White blood cell count - observation
+ctv3,42H1.,White cell count normal
+ctv3,42H3.,Leucocytosis
+ctv3,42HZ.,Total white cell count NOS
+ctv3,XaIdZ,Total WBC (IMM)
+ctv3,42H2.,Leucopenia
+ctv3,42H5.,White cell count abnormal

@@ -1,0 +1,14 @@
+terminology,readcode,readterm
+read2,42J..00,Neutrophil count
+read2,42JZ.00,Neutrophil count NOS
+read2,42J..11,Granulocyte count
+read2,42J2.00,Neutropenia
+read2,42J1.00,Neutrophil count normal
+read2,42J3.00,Neutrophilia
+read2,42J4.00,Neutrophil count abnormal
+ctv3,42J..,Neutrophil count
+ctv3,42JZ.,Neutrophil count NOS
+ctv3,42J2.,Neutropenia
+ctv3,42J1.,Neutrophil count normal
+ctv3,42J3.,Neutrophilia
+ctv3,42J4.,Neutrophil count abnormal

@@ -1,0 +1,7 @@
+terminology,readcode,readterm
+read2,44CS.00,Serum C reactive protein level
+read2,44CC000,C reactive protein normal
+read2,44CC100,C reactive protein abnormal
+ctv3,XaINL,Serum C reactive protein level
+ctv3,44CC0,C-reactive protein normal
+ctv3,44CC1,C-reactive protein abnormal

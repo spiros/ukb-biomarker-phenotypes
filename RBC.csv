@@ -1,0 +1,13 @@
+terminology,readcode,readterm
+read2,426..00,Red blood cell (RBC) count
+read2,426Z.00,RBC count NOS
+read2,4261.00,RBC count normal
+read2,4263.00,RBC count low
+ctv3,426..,Red blood cell count
+ctv3,426Z.,RBC count NOS
+ctv3,4261.,RBC count normal
+ctv3,4263.,RBC count low
+read2,4262.00,RBC count borderline low
+read2,4264.00,RBC count raised
+read2,4267.00,RBC count abnormal
+read2,4265.00,RBC count borderline raised

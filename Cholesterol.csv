@@ -1,0 +1,22 @@
+terminology,readcode,readterm
+read2,44P..00,Serum cholesterol
+read2,44PJ.00,Serum total cholesterol level
+read2,44PH.00,Total cholesterol measurement
+read2,44P3.00,Serum cholesterol raised
+read2,44P1.00,Serum cholesterol normal
+read2,44PZ.00,Serum cholesterol NOS
+read2,44P9.00,Serum cholesterol studies
+read2,44P2.00,Serum cholesterol borderline
+read2,44PK.00,Serum fasting total cholesterol
+read2,44P4.00,Serum cholesterol very high
+ctv3,XE2eD,Serum cholesterol
+ctv3,XE2eD,Serum cholesterol level
+ctv3,XaJe9,Serum total cholesterol level
+ctv3,XSK14,Total cholesterol measurement
+ctv3,44P3.,Serum cholesterol raised
+ctv3,44P1.,Serum cholesterol normal
+ctv3,44PZ.,Serum cholesterol NOS
+ctv3,44P9.,Serum cholesterol studies
+ctv3,44P2.,Serum cholesterol borderline
+ctv3,XaLux,Serum fasting total cholesterol
+ctv3,44P4.,Serum cholesterol very high

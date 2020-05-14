@@ -1,0 +1,26 @@
+terminology,readcode,readterm
+read2,42W5.00,Haemoglobin A1c level - IFCC standardised
+read2,42W4.00,HbA1c level (DCCT aligned)
+read2,42W..00,Hb. A1C - diabetic control
+read2,42W..11,Glycosylated Hb
+read2,42W..12,Glycated haemoglobin
+read2,42W2.00,Hb. A1C 7-10% - borderline
+read2,42W1.00,Hb. A1C < 7% - good control
+read2,42WZ.00,Hb. A1C - diabetic control NOS
+read2,42W3.00,Hb. A1C > 10% - bad control
+ctv3,XaPbt,Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+ctv3,XaERp,HbA1c level (DCCT aligned)
+ctv3,XE24t,Hb. A1C - diabetic control
+ctv3,X80U3,Glycated haemoglobin
+ctv3,X80U3,Glycosylated Hb
+ctv3,42W2.,Hb. A1C 7-10% - borderline
+ctv3,42W1.,Hb. A1C < 7% - good control
+ctv3,42WZ.,Hb. A1C - diabetic control NOS
+ctv3,42W3.,Hb. A1C > 10% - bad control
+read2,44TB.00,Haemoglobin A1c level
+read2,42c..00,HbA1 - diabetic control
+read2,42c3.00,HbA1 level (DCCT aligned)
+read2,42c1.00,HbA1 7 - 10% - borderline control
+read2,42c0.00,HbA1 < 7% - good control
+read2,44TC.00,Haemoglobin A1 level
+read2,42c2.00,HbA1 > 10% - bad control

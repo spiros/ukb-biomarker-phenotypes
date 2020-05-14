@@ -1,0 +1,16 @@
+terminology,readcode,readterm
+read2,44Q..00,Serum triglycerides
+read2,44Q4.00,Serum fasting triglyceride level
+read2,44Q5.00,Serum random triglyceride level
+read2,44QZ.00,Serum triglycerides NOS
+read2,44Q1.00,Serum triglycerides normal
+read2,44Q3.00,Serum triglycerides raised
+read2,44Q2.00,Serum triglycerides borderline
+ctv3,XE2q9,Serum triglycerides
+ctv3,XE2q9,Serum triglyceride levels
+ctv3,44Q4.,Serum fasting triglyceride level
+ctv3,44Q5.,Serum random triglyceride level
+ctv3,44QZ.,Serum triglycerides NOS
+ctv3,44Q1.,Serum triglycerides normal
+ctv3,44Q3.,Serum triglycerides raised
+ctv3,44Q2.,Serum triglycerides borderline

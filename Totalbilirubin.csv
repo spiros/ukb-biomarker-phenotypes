@@ -1,0 +1,16 @@
+terminology,readcode,readterm
+read2,44EC.00,Serum total bilirubin level
+read2,44E..00,Serum bilirubin level
+read2,44E3.00,Total bilirubin
+read2,44E1.00,Serum bilirubin normal
+read2,44EZ.00,Serum bilirubin NOS
+read2,44E2.00,Serum bilirubin raised
+read2,44E6.00,Serum bilirubin borderline
+ctv3,XaERu,Serum total bilirubin level
+ctv3,44E..,Serum bilirubin level
+ctv3,XE2qu,Total bilirubin level
+ctv3,XE2qu,Total bilirubin
+ctv3,44E1.,Serum bilirubin normal
+ctv3,44EZ.,Serum bilirubin NOS
+ctv3,44E2.,Serum bilirubin raised
+ctv3,44E6.,Serum bilirubin borderline

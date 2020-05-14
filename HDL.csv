@@ -1,0 +1,7 @@
+terminology,readcode,readterm
+read2,44P5.00,Serum HDL cholesterol level
+read2,44PB.00,Serum fasting HDL cholesterol level
+read2,44PC.00,Serum random HDL cholesterol level
+ctv3,44P5.,Serum HDL cholesterol level
+ctv3,44PB.,Serum fasting HDL cholesterol level
+ctv3,44PC.,Serum random HDL cholesterol level

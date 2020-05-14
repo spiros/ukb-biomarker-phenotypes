@@ -1,0 +1,8 @@
+terminology,readcode,readterm
+read2,44I8.00,Serum calcium
+read2,44I8000,Normal serum calcium level
+ctv3,XE2q3,Serum calcium
+ctv3,XE2q3,Serum calcium level
+ctv3,44I80,Normal serum calcium level
+ctv3,Xabpk,Serum adjusted calcium concentration
+read2,44h4.00,Blood calcium level

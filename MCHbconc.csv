@@ -1,0 +1,11 @@
+terminology,readcode,readterm
+read2,429..00,Mean corpusc. Hb. conc. (MCHC)
+read2,429Z.00,MCHC - NOS
+read2,4291.00,MCHC - normal
+ctv3,429..,Mean cell haemoglobin concentration
+ctv3,429Z.,MCHC - NOS
+ctv3,4291.,MCHC - normal
+read2,4294.00,MCHC - raised
+read2,4293.00,MCHC - low
+read2,4292.00,MCHC - borderline low
+read2,4295.00,MCHC - borderline raised

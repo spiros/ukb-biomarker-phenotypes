@@ -1,0 +1,10 @@
+terminology,readcode,readterm
+read2,42K..00,Eosinophil count
+read2,42KZ.00,Eosinophil count NOS
+read2,42K1.00,Eosinophil count normal
+read2,42K3.00,Eosinophil count raised
+ctv3,42K..,Eosinophil count
+ctv3,42KZ.,Eosinophil count NOS
+ctv3,42K1.,Eosinophil count normal
+ctv3,42K3.,Eosinophil count raised
+read2,42K2.00,Eosinopenia

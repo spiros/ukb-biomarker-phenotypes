@@ -1,0 +1,10 @@
+terminology,readcode,readterm
+read2,42N..00,Monocyte count
+read2,42NZ.00,Monocyte count NOS
+read2,42N1.00,Monocyte count normal
+read2,42N5.00,Monocyte count abnormal
+ctv3,42N..,Monocyte count
+ctv3,42NZ.,Monocyte count NOS
+ctv3,42N1.,Monocyte count normal
+ctv3,42N5.,Monocyte count abnormal
+read2,42N2.00,Monocyte count raised

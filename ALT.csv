@@ -1,0 +1,12 @@
+terminology,readcode,readterm
+read2,44G3.00,ALT/SGPT serum level
+read2,44GB.00,Serum alanine aminotransferase level
+read2,44G..11,ALT - blood level
+read2,44G3000,ALT/SGPT level normal
+read2,44G3100,ALT/SGPT level abnormal
+ctv3,44G3.,ALT/SGPT serum level
+ctv3,XaLJx,Serum alanine aminotransferase level
+ctv3,X771f,ALT - blood level
+ctv3,X771e,SGPT - blood level
+ctv3,44G30,ALT.SGPT level normal
+ctv3,44G31,ALT.SGPT level abnormal

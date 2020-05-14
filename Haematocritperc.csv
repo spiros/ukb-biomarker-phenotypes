@@ -1,0 +1,19 @@
+terminology,readcode,readterm
+read2,4258.00,Haematocrit
+read2,4257.00,Packed cell volume
+read2,425..00,Haematocrit - PCV
+read2,425..11,Packed cell volume - PCV
+read2,425Z.00,Haematocrit - PCV - NOS
+read2,4254.00,Haematocrit - PCV - low
+read2,4251.00,Haematocrit - PCV - normal
+ctv3,X76tb,Haematocrit
+ctv3,X76tc,Packed cell volume
+ctv3,XE2Zq,Haematocrit - PCV
+ctv3,XE2Zq,Haematocrit - PCV level
+ctv3,425Z.,Haematocrit - PCV - NOS
+ctv3,4254.,Haematocrit - PCV - low
+ctv3,4251.,Haematocrit - PCV - normal
+read2,4255.00,Haematocrit - borderline low
+read2,4253.00,Haematocrit - PCV - high
+read2,4256.00,Haematocrit - PCV - abnormal
+read2,4252.00,Haematocrit - borderline high

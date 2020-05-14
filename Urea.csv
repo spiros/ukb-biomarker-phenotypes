@@ -1,0 +1,18 @@
+terminology,readcode,readterm
+read2,44J9.00,Serum urea level
+read2,44J8.00,Blood urea
+read2,44J..11,Urea - blood
+read2,44JA.00,Plasma urea level
+read2,44J..00,Blood urea/renal function
+read2,44J1.00,Blood urea normal
+read2,44J2.00,Blood urea abnormal
+read2,44J..13,Serum urea level
+read2,44JZ.00,Blood urea/renal function NOS
+read2,44J8.11,Urea - blood
+ctv3,XM0lt,Serum urea level
+ctv3,X771P,Blood urea
+ctv3,X771P,Urea - blood
+ctv3,XaDvl,Plasma urea level
+ctv3,44J1.,Blood urea normal
+ctv3,44J2.,Blood urea abnormal
+ctv3,44JZ.,Blood urea/renal function NOS

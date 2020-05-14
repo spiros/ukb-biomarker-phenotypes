@@ -1,0 +1,14 @@
+terminology,readcode,readterm
+read2,42A..00,Mean corpuscular volume (MCV)
+read2,42A..11,Mean cell volume
+read2,42AZ.00,MCV - NOS
+read2,42A1.00,MCV - normal
+read2,42A3.00,MCV - raised
+read2,42A4.00,MCV - low
+ctv3,42A..,Mean cell volume
+ctv3,42AZ.,MCV - NOS
+ctv3,42A1.,MCV - normal
+ctv3,42A3.,MCV - raised
+ctv3,42A4.,MCV - low
+read2,42A2.00,MCV - borderline raised
+read2,42A5.00,MCV - borderline low

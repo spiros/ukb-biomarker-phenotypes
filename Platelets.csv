@@ -1,0 +1,13 @@
+terminology,readcode,readterm
+read2,42P..00,Platelet count
+read2,42P1.00,Platelet count normal
+read2,42PZ.00,Platelet count NOS
+read2,42P2.00,Thrombocytopenia
+read2,42P3.00,Thrombocythaemia
+read2,42P4.00,Platelet count abnormal
+ctv3,42P..,Platelet count
+ctv3,42P1.,Platelet count normal
+ctv3,42PZ.,Platelet count NOS
+ctv3,XE24o,Thrombocytopenia
+ctv3,42P3.,Thrombocythaemia
+ctv3,42P4.,Platelet count abnormal

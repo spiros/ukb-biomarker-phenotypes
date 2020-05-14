@@ -1,0 +1,19 @@
+terminology,readcode,readterm
+read2,22A..00,O/E - weight
+read2,22AZ.00,O/E - weight NOS
+read2,22A4.00,O/E - weight 10-20% over ideal
+read2,22A3.00,O/E - weight within 10% ideal
+read2,22A5.00,O/E - weight > 20% over ideal
+read2,22A4.11,O/E - overweight
+read2,22A5.11,O/E - obese
+read2,22A6.00,O/E - Underweight
+ctv3,22A..,O/E - weight
+ctv3,22AZ.,O/E - weight NOS
+ctv3,XE1h3,O/E - weight 10-20% over ideal
+ctv3,XM1YD,O/E - overweight
+ctv3,22A3.,O/E - weight within 10% ideal
+ctv3,222A.,O/E - obese
+ctv3,22A6.,O/E - Underweight
+read2,1622.00,Weight increasing
+read2,22A2.00,O/E -weight 10-20% below ideal
+read2,22A1.00,O/E - weight > 20% below ideal

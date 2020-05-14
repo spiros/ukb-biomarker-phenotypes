@@ -1,0 +1,23 @@
+terminology,readcode,readterm
+read2,423..00,Haemoglobin estimation
+read2,423..11,Hb estimation
+read2,4237.00,Haemoglobin normal
+read2,4235.00,Haemoglobin low
+read2,423Z.00,Haemoglobin estimation NOS
+read2,4239.00,Haemoglobin high
+read2,4236.00,Haemoglobin borderline low
+read2,4234.00,Haemoglobin very low
+read2,423B.00,Haemoglobin abnormal
+ctv3,Xa96v,Haemoglobin concentration
+ctv3,XE2m6,Haemoglobin estimation
+ctv3,XM1Vu,Hb estimation
+ctv3,4237.,Haemoglobin normal
+ctv3,4235.,Haemoglobin low
+ctv3,423Z.,Haemoglobin estimation NOS
+ctv3,4239.,Haemoglobin high
+ctv3,4236.,Haemoglobin borderline low
+ctv3,X76ti,Haemoglobin H inclusion
+ctv3,4234.,Haemoglobin very low
+ctv3,423B.,Haemoglobin abnormal
+read2,4238.00,Haemoglobin borderline high
+read2,423A.00,Haemoglobin very high

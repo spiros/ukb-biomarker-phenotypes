@@ -1,0 +1,8 @@
+terminology,readcode,readterm
+read2,42M..00,Lymphocyte count
+read2,42MZ.00,Lymphocyte count NOS
+read2,42M1.00,Lymphocyte count normal
+read2,42M4.00,Abnormal lymphocytes
+ctv3,42M..,Lymphocyte count
+ctv3,42MZ.,Lymphocyte count NOS
+ctv3,42M1.,Lymphocyte count normal

@@ -1,0 +1,17 @@
+terminology,readcode,readterm
+read2,44g..00,Plasma glucose level
+read2,44g0.00,Plasma random glucose level
+ctv3,XM0ly,Plasma glucose level
+ctv3,44g0.,Plasma random glucose level
+read2,44U..00,Blood glucose result
+read2,44TJ.00,Blood glucose level
+read2,44U..11,Blood sugar result
+read2,44TA.00,Plasma glucose
+read2,44U4.00,Blood glucose 5-6.9 mmol/L
+read2,44T1000,Random blood sugar normal
+read2,44U3.00,Blood glucose 2.5-4.9 mmol/L
+read2,44U8.00,Blood glucose normal
+read2,44U5.00,Blood glucose 7-9.9 mmol/L
+read2,44U..12,Plasma glucose level
+read2,44U6.00,Blood glucose 10-13.9 mmol/L
+read2,44T5.00,Laboratory blood sugar

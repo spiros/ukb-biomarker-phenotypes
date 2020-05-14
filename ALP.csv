@@ -1,0 +1,12 @@
+terminology,readcode,readterm
+read2,44F..00,Serum alkaline phosphatase
+read2,44F3.00,Total alkaline phosphatase
+read2,44FZ.00,Serum alkaline phosphatase NOS
+read2,44F1.00,Serum alk. phos. normal
+read2,44F2.00,Serum alk. phos. raised
+ctv3,XE2px,Serum alkaline phosphatase
+ctv3,XE2px,Serum alkaline phosphatase level
+ctv3,44F3.,Alkaline phosphatase level
+ctv3,44FZ.,Serum alkaline phosphatase NOS
+ctv3,44F1.,Serum alk. phos. normal
+ctv3,44F2.,Serum alk. phos. raised

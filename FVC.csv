@@ -1,0 +1,8 @@
+terminology,readcode,readterm
+read2,3396.00,Forced vital capacity - FVC
+read2,3396000,FVC - forced vital capacity normal
+read2,3396100,FVC - forced vital capacity abnormal
+ctv3,3396.,Forced vital capacity
+ctv3,33960,FVC - forced vital capacity normal
+ctv3,33961,FVC - forced vital capacity abnormal
+read2,339s.00,Forced vital capacity before bronchodilation
