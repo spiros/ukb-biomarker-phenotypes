@@ -6,7 +6,7 @@ The UK Biobank is making [primary care electronic health records](http://biobank
 
 Details on how these algorithms were bootstrapped and validated:
 
-    Denaxas S., Shah A.D., Mateen B., Kuan V., Quint J.K., Fitzpatrick N., Torralbo A., Fatemifar G., Hemingway H. (2020) _A semi-supervised approach for rapidly creating clinical biomarker phenotypes in the UK Biobank, across different primary care EHR and clinical terminology systems_.
+Denaxas S., Shah A.D., Mateen B., Kuan V., Quint J.K., Fitzpatrick N., Torralbo A., Fatemifar G., Hemingway H. (2020) _A semi-supervised approach for rapidly creating clinical biomarker phenotypes in the UK Biobank, across different primary care EHR and clinical terminology systems_.
 
 
 # Phenotypes 
