@@ -4,9 +4,10 @@
 
 The UK Biobank is making [primary care electronic health records](http://biobank.ctsu.ox.ac.uk/crystal/crystal/docs/primary_care_data.pdf) available for the entire cohort for [COVID-19 research](https://www.ukbiobank.ac.uk/2020/04/covid/). This repository provides machine-readable versions (CSV files) of electronic health record phenotyping algorithms for 31 commonly-measured biomakers, many of which are associated with COVID-19 comorbidities such as body mass index, cardiovascular disease and respiratory disease.
 
-Details on how these algorithms were bootstrapped and validated:
+Details on how these algorithms were bootstrapped and validated can be found in the [publication](https://doi.org/10.1093/jamiaopen/ooaa047):
 
-Denaxas S., Shah A.D., Mateen B., Kuan V., Quint J.K., Fitzpatrick N., Torralbo A., Fatemifar G., Hemingway H. (2020) _A semi-supervised approach for rapidly creating clinical biomarker phenotypes in the UK Biobank, across different primary care EHR and clinical terminology systems_.
+    Spiros Denaxas, Anoop D Shah, Bilal A Mateen, Valerie Kuan, Jennifer K Quint, Natalie Fitzpatrick, Ana Torralbo, Ghazaleh Fatemifar, Harry Hemingway, A semi-supervised approach for rapidly creating clinical biomarker phenotypes in the UK Biobank using different primary care EHR and clinical terminology systems, JAMIA Open, Volume 3, Issue 4, December 2020, Pages 545–556, https://doi.org/10.1093/jamiaopen/ooaa047
+
 
 
 # Phenotypes 
