@@ -6,7 +6,10 @@ The UK Biobank is making [primary care electronic health records](http://biobank
 
 Details on how these algorithms were bootstrapped and validated can be found in the [publication](https://doi.org/10.1093/jamiaopen/ooaa047):
 
-    Spiros Denaxas, Anoop D Shah, Bilal A Mateen, Valerie Kuan, Jennifer K Quint, Natalie Fitzpatrick, Ana Torralbo, Ghazaleh Fatemifar, Harry Hemingway, A semi-supervised approach for rapidly creating clinical biomarker phenotypes in the UK Biobank using different primary care EHR and clinical terminology systems, JAMIA Open, Volume 3, Issue 4, December 2020, Pages 545–556, https://doi.org/10.1093/jamiaopen/ooaa047
+    Spiros Denaxas, Anoop D Shah, Bilal A Mateen, Valerie Kuan, Jennifer K Quint, Natalie Fitzpatrick, Ana Torralbo, Ghazaleh Fatemifar, 
+    Harry Hemingway, A semi-supervised approach for rapidly creating clinical biomarker phenotypes in the UK Biobank using 
+    different primary care EHR and clinical terminology systems, JAMIA Open, Volume 3, Issue 4, December 2020, Pages 545–556, 
+    https://doi.org/10.1093/jamiaopen/ooaa047
 
 
 
